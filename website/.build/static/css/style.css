@@ -262,12 +262,15 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-navbar .btn-more a:hover {
-  color: #1a1919;
+  color: #3D680E;
 }
 
+.probootstrap-navbar .navbar-toggle {
+  background-color: #3D680E;
+}
 .probootstrap-navbar .navbar-toggle:focus,
 .probootstrap-navbar .navbar-toggle:hover {
-  background-color: transparent;
+  background-color: #930502;
 }
 
 .probootstrap-navbar .navbar-toggle {
@@ -499,11 +502,11 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-navbar .navbar-nav > li > a:hover {
-  color: rgba(0, 0, 0, 0.7);
+  color: rgba(255, 0, 0, 0.7);
 }
 
 .probootstrap-navbar .navbar-nav > li > a:hover, .probootstrap-navbar .navbar-nav > li > a:focus, .probootstrap-navbar .navbar-nav > li > a:active {
-  color: rgba(0, 0, 0, 0.7);
+  color: rgba(255, 0, 0, 0.7);
 }
 
 .probootstrap-navbar .navbar-nav > li.open > a:hover, .probootstrap-navbar .navbar-nav > li.open > a:focus, .probootstrap-navbar .navbar-nav > li.open > a {

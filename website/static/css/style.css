@@ -227,12 +227,11 @@ a:hover, a:focus, a:active {
 
 .probootstrap-navbar {
   border: none;
-  z-index: 1000;
   -webkit-box-shadow: none;
   box-shadow: none;
   border-radius: 0px;
   margin-bottom: 0px;
-  background: black;
+  background: #ffffff;
   -webkit-transition: .3s all;
   transition: .3s all;
 }
@@ -259,7 +258,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-navbar .btn-more a {
-  color: #930502;
+  color: #b3b2b2;
 }
 
 .probootstrap-navbar .btn-more a:hover {
@@ -489,7 +488,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-navbar .navbar-nav > li > a {
-  color: white;
+  color: black;
   font-size: 15px;
   position: relative;
 }
